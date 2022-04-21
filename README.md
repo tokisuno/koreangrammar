@@ -1,2 +1,2 @@
-### https://tokisuno.github.io/koreangrammar/Image
+### https://tokisuno.github.io/koreangrammar/
 # Welcome!
