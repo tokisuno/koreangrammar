@@ -64,7 +64,7 @@ vs.
 
  In this case, 데 is not the dependent noun of location, therefore the 곳 replacement won't work.
 
-###(2)
+### (2)
  곳 can be dependent on demonstrative or adjectival modifiers (of any tense). 데 can ONLY be dependent on adjectival modifiers (of any tense).
  **Example: (This is the city where I live)**
  >- 이 곳은 내가 사는 도시입니다. (O)
