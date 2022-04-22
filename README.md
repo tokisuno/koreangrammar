@@ -76,4 +76,3 @@ vs.
 
  In this instance, 곳 and 데 are both dependent on 사는, an adjectival modifier of present tense. They are interchangeable.
  
-
