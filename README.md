@@ -47,7 +47,7 @@ vs.
 
 # 곳 vs 데
 [link](https://www.reddit.com/r/Korean/comments/25jk1v/difference_in_usage_of_%EA%B3%B3_vs_%EB%8D%B0_for_place/chii09c/?utm_source=share&utm_medium=web2x&context=3)
- (1)
+### (1)
  곳 is speficially the dependent noun of location. It can refer to both the physical location or the metaphorical location. Whenever 곳 is used, you could replace it with 장소 and it will work just as well.
 
  데 is more general in the usage. It can refer to the location, characteristic, situation, etc. If it is used as the dependent noun of locaton, 장소 or 곳 replacement will be just as fine. If it's not, then it won't work.
@@ -64,7 +64,7 @@ vs.
 
  In this case, 데 is not the dependent noun of location, therefore the 곳 replacement won't work.
 
- (2)
+###(2)
  곳 can be dependent on demonstrative or adjectival modifiers (of any tense). 데 can ONLY be dependent on adjectival modifiers (of any tense).
  **Example: (This is the city where I live)**
  >- 이 곳은 내가 사는 도시입니다. (O)
