@@ -4,7 +4,7 @@
 - Include grammar points I find on reddit and other forum posting websites that I think would be good to spread around
 - Maintain this regularly since there is a lot of Korean grammar I am not good at LMAO.
 
-#~(으)ㄹ거예요 vs ~(으)ㄹ게요.
+# ~(으)ㄹ거예요 vs ~(으)ㄹ게요.
 [link](https://www.reddit.com/r/Korean/comments/tzvtyf/comment/i41tygp/?utm_source=share&utm_medium=web2x&context=3)
 
 The way I understand it is that -(으)ㄹ 거예요 is something that has already been decided outside the context of the current conversation - it is a fixed plan that you had already made. -(으)ㄹ게요 is used when you make a plan because of new information in the context of a conversation.
