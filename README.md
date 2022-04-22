@@ -1,4 +1,4 @@
-### https://tokisuno.github.io/koreangrammar/
+## https://tokisuno.github.io/koreangrammar/
 # Welcome!
 ## Plans for this 
 - Include grammar points I find on reddit and other forum posting websites that I think would be good to spread around
@@ -44,4 +44,36 @@ vs.
     - If the context is specific, impossible within that context
 
 > 인간은 날 수 없어요 --> Humans cannot fly
+
+# 곳 vs 데
+[link](https://www.reddit.com/r/Korean/comments/25jk1v/difference_in_usage_of_%EA%B3%B3_vs_%EB%8D%B0_for_place/chii09c/?utm_source=share&utm_medium=web2x&context=3)
+ (1)
+ 곳 is speficially the dependent noun of location. It can refer to both the physical location or the metaphorical location. Whenever 곳 is used, you could replace it with 장소 and it will work just as well.
+
+ 데 is more general in the usage. It can refer to the location, characteristic, situation, etc. If it is used as the dependent noun of locaton, 장소 or 곳 replacement will be just as fine. If it's not, then it won't work.
+
+**Examples: (The weather is nice where I live)**
+ >- 내가 사는 곳은 날씨가 좋아요.
+ >- 내가 사는 데는 날씨가 좋아요.
+
+ Both are great because they can both refer to a specific location
+
+**Here's another example though: (Do you have any medicine for a headache?)**
+ >- 머리아픈 데(에) 먹는 약 있어요? (circumstance)
+ >- 머리 아픈 곳에 먹는 약 있어요? (doesn't work)
+
+ In this case, 데 is not the dependent noun of location, therefore the 곳 replacement won't work.
+
+ (2)
+ 곳 can be dependent on demonstrative or adjectival modifiers (of any tense). 데 can ONLY be dependent on adjectival modifiers (of any tense).
+ **Example: (This is the city where I live)**
+ >- 이 곳은 내가 사는 도시입니다. (O)
+ >- 이 데는 내가 사는 도시입니다. (X)
+ >
+ *이, 저, 그 are all demonstrative determiners and cannot be used with 데.*
+ >- 여기가 내가 사는 곳입니다. (O)
+ >- 여기가 내가 사는 데입니다. (O)
+
+ In this instance, 곳 and 데 are both dependent on 사는, an adjectival modifier of present tense. They are interchangeable.
+ 
 
