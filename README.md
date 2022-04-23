@@ -2,9 +2,14 @@
 # Welcome!
 
 **Table of Contents**
-WIP
-* [~(으)ㄹ거예요 vs ~(으)ㄹ게요.](#으ㄹ거예요-vs-으ㄹ게요)
-* [곳 vs 데](#곳-vs-데)
+- [~(으)ㄹ거예요 vs ~(으)ㄹ게요.](#-vs-)
+- [~지 않다, ~지 못하다, ~(으)ㄹ 없다.](#-----)
+    - [~지 않다(also 안 하다)](#-also--)
+    - [~지 못하다(also 못 하다)](#-also---1)
+    - [~(으)ㄹ 수 없다](#--)
+- [곳 vs 데](#-vs--1)
+
+
 
 # ~(으)ㄹ거예요 vs ~(으)ㄹ게요.
 [link](https://www.reddit.com/r/Korean/comments/tzvtyf/comment/i41tygp/?utm_source=share&utm_medium=web2x&context=3)
