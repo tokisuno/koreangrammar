@@ -25,7 +25,7 @@ vs.
 
 # ~지 않다, ~지 못하다, ~(으)ㄹ 없다. 
 [link](https://korean.stackexchange.com/questions/181/what-is-the-difference-between-%EC%A7%80-%EC%95%8A%EB%8B%A4-%EC%A7%80-%EB%AA%BB%ED%95%98%EB%8B%A4-and-%E3%84%B9-%EC%9D%84-%EC%88%98-%EC%97%86%EB%8B%A4)
-**General Rules**
+\**General Rules**
 ### ~지 않다(also 안 하다)
 - On a 동사(action verb)
     - One doesn't do something, regardless of whether it's possible or not
