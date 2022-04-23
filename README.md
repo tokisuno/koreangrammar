@@ -1,8 +1,9 @@
 ## https://tokisuno.github.io/koreangrammar/
 # Welcome!
-## Plans for this 
-- Include grammar points I find on reddit and other forum posting websites that I think would be good to spread around
-- Maintain this regularly since there is a lot of Korean grammar I am not good at LMAO.
+
+# Table of Contents
+1. [~(으)ㄹ거예요 vs ~(으)ㄹ게요](#intention)
+2. [Grammar 2](#gramamr2)
 
 # ~(으)ㄹ거예요 vs ~(으)ㄹ게요.
 [link](https://www.reddit.com/r/Korean/comments/tzvtyf/comment/i41tygp/?utm_source=share&utm_medium=web2x&context=3)
