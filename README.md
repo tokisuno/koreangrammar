@@ -1,11 +1,11 @@
 ## https://tokisuno.github.io/koreangrammar/
 # Welcome!
+
+**Table of Contents**
 * [~(으)ㄹ거예요 vs ~(으)ㄹ게요.](#으ㄹ거예요-vs-으ㄹ게요)
-   * [General Rules](#general-rules)
-      * [~(으)ㄹ 수 없다](#으ㄹ-수-없다)
+* [~(으)ㄹ 수 없다](#으ㄹ-수-없다)
 * [곳 vs 데](#곳-vs-데)
-      * [(1)](#1)
-      * [(2)](#2)
+
 # ~(으)ㄹ거예요 vs ~(으)ㄹ게요.
 [link](https://www.reddit.com/r/Korean/comments/tzvtyf/comment/i41tygp/?utm_source=share&utm_medium=web2x&context=3)
 
