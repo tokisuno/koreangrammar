@@ -2,7 +2,9 @@
 # Welcome!
 
 **Table of Contents**
-- WIP
+- can't figure out how to do it
+- just use ctrl + f or something idk
+- you can clone this and use vim with folds to view normally
 
 # ~(으)ㄹ거예요 vs ~(으)ㄹ게요.
 [link](https://www.reddit.com/r/Korean/comments/tzvtyf/comment/i41tygp/?utm_source=share&utm_medium=web2x&context=3)
@@ -78,4 +80,10 @@ vs.
 
  In this instance, 곳 and 데 are both dependent on 사는, an adjectival modifier of present tense. They are interchangeable.
  
+# 주문하다 vs 시키다
+[link](https://www.reddit.com/r/Korean/comments/24izo6/comment/ch7llhu/?utm_source=share&utm_medium=web2x&context=3)
 
+ * 시키다: to make someone do something (i.e. an order)
+   * use when you're telling someone to do something
+ * 주문하다: to request for a product or a service (and sometimes an action)
+   * use at a restaurant
