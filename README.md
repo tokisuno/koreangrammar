@@ -28,7 +28,7 @@ vs.
 [link](https://korean.stackexchange.com/questions/181/what-is-the-difference-between-%EC%A7%80-%EC%95%8A%EB%8B%A4-%EC%A7%80-%EB%AA%BB%ED%95%98%EB%8B%A4-and-%E3%84%B9-%EC%9D%84-%EC%88%98-%EC%97%86%EB%8B%A4)\
 
 **General Rules**
-* ~지 않다(also 안 하다)
+**~지 않다(also 안 하다)**
 - On a 동사(action verb)
     - One doesn't do something, regardless of whether it's possible or not
     - Very often implies (with strength of the implication depending on the context) *deliberately* not doing something. But it doesn't automatically confer actually deliberateness in all cases
@@ -37,13 +37,13 @@ vs.
     - One *isn't* something, again regardless of whether it is possible *to* be.
     > 저는 똑똑하지 않아요. --> "I am not smart"
 
-* ~지 못하다(also 못 하다)
+**~지 못하다(also 못 하다)**
 - One can't do/be something
 - Does not imply that the action is *impossible*, rather, it implies that the action couldn't be done perhaps due to circumstances, but may otherwise be possible
 > 못 들었어요 --> "I couldn't/didn't hear you"
 > 못 갈 거예요 --> "I won't be able to go"
 
-* ~(으)ㄹ 수 없다
+**~(으)ㄹ 수 없다**
 
 - This implies that something is actually impossible 
     - If the context is specific, impossible within that context
@@ -83,23 +83,23 @@ vs.
 # 주문하다 vs 시키다
 [link](https://www.reddit.com/r/Korean/comments/24izo6/comment/ch7llhu/?utm_source=share&utm_medium=web2x&context=3)
 
-* 시키다
+**시키다**
  - to make someone do something (i.e. an order)
    * use when you're telling someone to do something
 
-* 주문하다
+**주문하다**
  - to request for a product or a service (and sometimes an action)
    * use at a restaurant
 
 # 면 vs ~(으)ㄹ 때
 [link](https://www.reddit.com/r/Korean/comments/6hgjaa/comment/diylww1/?utm_source=share&utm_medium=web2x&context=3)
 
-### 면
+**면**
  - means if, but can also mean when
  Examples
  > 도착하면 같이 먹자. (O)
  
-### ~(으)ㄹ 때
+**~(으)ㄹ 때**
  - only means when
  Examples
  > 도착할 때 같이 먹자. (X)
