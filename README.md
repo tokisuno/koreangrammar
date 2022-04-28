@@ -103,6 +103,7 @@ vs.
  - only means when
  Examples
  > 도착할 때 같이 먹자. (X)
+
  In this instance, it sounds unnatural since it seems that you're talking about eating at the specific and precise time that you arrive.
 
 
