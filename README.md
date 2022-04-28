@@ -117,4 +117,16 @@ vs.
  > 지하천 내릴 때 연락해.
  > when you get off the subway, contact me.
 
+# 좋다 vs 좋아하다
+[link](https://korean.stackexchange.com/a/248)
 
+ **좋다 is an adjective and means good**
+ - We can then append 하 to the infinitive 좋아 to make a compound, which gives the notion of *feeling*. 
+ - 좋아하다 has a "raw meaning" of "to feel good about"
+ 
+ Examples
+ > 이런 산법은 좋다: such algorithm is good
+ > 그는 사과를 좋아하다: he likes apples
+ > 난 네가 좋다: (to) me, you are good --> i like you
+
+ *as you can notice, the first person singular doesn't get the 하다 added on. this is because the sentence translate to "to me, you are good"*
