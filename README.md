@@ -83,7 +83,15 @@ vs.
 # 주문하다 vs 시키다
 [link](https://www.reddit.com/r/Korean/comments/24izo6/comment/ch7llhu/?utm_source=share&utm_medium=web2x&context=3)
 
- * 시키다: to make someone do something (i.e. an order)
+### 시키다
+ - to make someone do something (i.e. an order)
    * use when you're telling someone to do something
- * 주문하다: to request for a product or a service (and sometimes an action)
+
+### 주문하다
+ - to request for a product or a service (and sometimes an action)
    * use at a restaurant
+
+# 면 vs ~(으)ㄹ 때
+[link](https://www.reddit.com/r/Korean/comments/6hgjaa/comment/diylww1/?utm_source=share&utm_medium=web2x&context=3)
+
+
