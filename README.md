@@ -28,7 +28,7 @@ vs.
 [link](https://korean.stackexchange.com/questions/181/what-is-the-difference-between-%EC%A7%80-%EC%95%8A%EB%8B%A4-%EC%A7%80-%EB%AA%BB%ED%95%98%EB%8B%A4-and-%E3%84%B9-%EC%9D%84-%EC%88%98-%EC%97%86%EB%8B%A4)\
 
 **General Rules**
-### ~지 않다(also 안 하다)
+* ~지 않다(also 안 하다)
 - On a 동사(action verb)
     - One doesn't do something, regardless of whether it's possible or not
     - Very often implies (with strength of the implication depending on the context) *deliberately* not doing something. But it doesn't automatically confer actually deliberateness in all cases
@@ -37,13 +37,14 @@ vs.
     - One *isn't* something, again regardless of whether it is possible *to* be.
     > 저는 똑똑하지 않아요. --> "I am not smart"
 
-### ~지 못하다(also 못 하다)
+* ~지 못하다(also 못 하다)
 - One can't do/be something
 - Does not imply that the action is *impossible*, rather, it implies that the action couldn't be done perhaps due to circumstances, but may otherwise be possible
 > 못 들었어요 --> "I couldn't/didn't hear you"
 > 못 갈 거예요 --> "I won't be able to go"
 
-### ~(으)ㄹ 수 없다
+* ~(으)ㄹ 수 없다
+
 - This implies that something is actually impossible 
     - If the context is specific, impossible within that context
 
@@ -51,7 +52,7 @@ vs.
 
 # 곳 vs 데
 [link](https://www.reddit.com/r/Korean/comments/25jk1v/difference_in_usage_of_%EA%B3%B3_vs_%EB%8D%B0_for_place/chii09c/?utm_source=share&utm_medium=web2x&context=3)
-### (1)
+
  곳 is speficially the dependent noun of location. It can refer to both the physical location or the metaphorical location. Whenever 곳 is used, you could replace it with 장소 and it will work just as well.
 
  데 is more general in the usage. It can refer to the location, characteristic, situation, etc. If it is used as the dependent noun of locaton, 장소 or 곳 replacement will be just as fine. If it's not, then it won't work.
@@ -68,7 +69,6 @@ vs.
 
  In this case, 데 is not the dependent noun of location, therefore the 곳 replacement won't work.
 
-### (2)
  곳 can be dependent on demonstrative or adjectival modifiers (of any tense). 데 can ONLY be dependent on adjectival modifiers (of any tense).
  **Example: (This is the city where I live)**
  >- 이 곳은 내가 사는 도시입니다. (O)
@@ -83,11 +83,11 @@ vs.
 # 주문하다 vs 시키다
 [link](https://www.reddit.com/r/Korean/comments/24izo6/comment/ch7llhu/?utm_source=share&utm_medium=web2x&context=3)
 
-### 시키다
+* 시키다
  - to make someone do something (i.e. an order)
    * use when you're telling someone to do something
 
-### 주문하다
+* 주문하다
  - to request for a product or a service (and sometimes an action)
    * use at a restaurant
 
