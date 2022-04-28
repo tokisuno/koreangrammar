@@ -25,7 +25,8 @@ vs.
 
 # ~지 않다 vs ~지 못하다 vs ~(으)ㄹ 없다. 
 
-[link](https://korean.stackexchange.com/questions/181/what-is-the-difference-between-%EC%A7%80-%EC%95%8A%EB%8B%A4-%EC%A7%80-%EB%AA%BB%ED%95%98%EB%8B%A4-and-%E3%84%B9-%EC%9D%84-%EC%88%98-%EC%97%86%EB%8B%A4)\
+[link](https://korean.stackexchange.com/questions/181/what-is-the-difference-between-%EC%A7%80-%EC%95%8A%EB%8B%A4-%EC%A7%80-%EB%AA%BB%ED%95%98%EB%8B%A4-and-%E3%84%B9-%EC%9D%84-%EC%88%98-%EC%97%86%EB%8B%A4)
+
 
 **General Rules**
 **~지 않다(also 안 하다)**
@@ -96,11 +97,13 @@ vs.
 
 **면**
  - means if, but can also mean when
+
  Examples
  > 도착하면 같이 먹자. (O)
  
 **~(으)ㄹ 때**
  - only means when
+
  Examples
  > 도착할 때 같이 먹자. (X)
 
