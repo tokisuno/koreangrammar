@@ -94,4 +94,15 @@ vs.
 # 면 vs ~(으)ㄹ 때
 [link](https://www.reddit.com/r/Korean/comments/6hgjaa/comment/diylww1/?utm_source=share&utm_medium=web2x&context=3)
 
+### 면
+ - means if, but can also mean when
+ Examples
+ > 도착하면 같이 먹자. (O)
+  
+### ~(으)ㄹ 때
+ - only means when
+ Examples
+ > 도착할 때 같이 먹자. (X)
+ In this instance, it sounds unnatural since it seems that you're talking about eating at the specific and precise time that you arrive.
+
 
