@@ -129,4 +129,4 @@ vs.
  > 그는 사과를 좋아하다: he likes apples
  > 난 네가 좋다: (to) me, you are good --> i like you
 
- *as you can notice, the first person singular doesn't get the 하다 added on. this is because the sentence translate to "to me, you are good"*
+ *as you can notice, the first person singular doesn't get the 하다 added on. this is because the sentence translate to "to me, you are good"* 
