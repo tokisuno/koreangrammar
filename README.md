@@ -98,12 +98,20 @@ vs.
  - means if, but can also mean when
  Examples
  > 도착하면 같이 먹자. (O)
-  
+ 
 ### ~(으)ㄹ 때
  - only means when
  Examples
  > 도착할 때 같이 먹자. (X)
 
  In this instance, it sounds unnatural since it seems that you're talking about eating at the specific and precise time that you arrive.
+
+ Essentially the difference is that ~(으)ㄹ 때 emphasizes that particular moment or time, whereas 면 is more like after an event happens.
+
+ Examples
+ > 지하철 내리면 연락해.
+ > if/after you get off the subway, contact me.
+ > 지하천 내릴 때 연락해.
+ > when you get off the subway, contact me.
 
 
